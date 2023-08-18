@@ -1,8 +1,8 @@
 # BottomBarTabBarUi
 
-# Este proyecto es una interfaz de usuario simple para que puedan utilizar una navegación inferior y una navegacion tab con fragments y activities.
+ Este proyecto es una interfaz de usuario simple para que puedan utilizar una navegación inferior y una navegacion tab con fragments y activities.
 
-# This project is a simple UI so you can use bottom navigation and tab navigation with fragments and activities.
+ This project is a simple UI so you can use bottom navigation and tab navigation with fragments and activities.
 
 
 
