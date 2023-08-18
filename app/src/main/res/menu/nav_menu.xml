@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/newsFragment"
+        android:icon="@drawable/noticias"
+        android:title="News"
+        android:tint="@color/white"
+        ></item>
+    <item
+        android:id="@+id/matchsLigueFragment2"
+        android:icon="@drawable/balondefutbol"
+        android:title="Matchs"
+        android:tint="@color/white"
+
+        ></item>
+    <item
+        android:id="@+id/homeCenterFragment"
+        android:icon="@drawable/casa"
+        android:title="Home"
+        android:tint="@color/white"
+
+        ></item>
+    <item
+        android:id="@+id/teamFragment"
+        android:icon="@drawable/team_building"
+        android:title="Team"
+
+        ></item>
+    <item
+        android:id="@+id/settingsInfoFragment"
+        android:icon="@drawable/configuraciones"
+        android:title="Settings"
+        android:tint="@color/white"
+
+        ></item>
+
+</menu>

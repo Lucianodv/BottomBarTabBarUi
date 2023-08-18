@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_main"
+    app:startDestination="@id/homeCenterFragment">
+
+    <fragment
+        android:id="@+id/homeCenterFragment"
+        android:name="com.example.teamdesingapp.HomeCenterFragment"
+        android:label="fragment_home_center"
+        tools:layout="@layout/fragment_home_center" />
+    <fragment
+        android:id="@+id/settingsInfoFragment"
+        android:name="com.example.teamdesingapp.SettingsInfoFragment"
+        android:label="fragment_settings_info"
+        tools:layout="@layout/fragment_settings_info" />
+    <fragment
+        android:id="@+id/newsFragment"
+        android:name="com.example.teamdesingapp.NewsFragment"
+        android:label="fragment_news"
+        tools:layout="@layout/fragment_news" />
+    <fragment
+        android:id="@+id/teamFragment"
+        android:name="com.example.teamdesingapp.TeamFragment"
+        android:label="fragment_team"
+        tools:layout="@layout/fragment_team" />
+    <fragment
+        android:id="@+id/matchsLigueFragment2"
+        android:name="com.example.teamdesingapp.MatchsLigueFragment"
+        android:label="fragment_matchs_ligue"
+        tools:layout="@layout/fragment_matchs_ligue" />
+</navigation>
